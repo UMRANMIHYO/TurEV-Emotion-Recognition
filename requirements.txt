@@ -1,0 +1,8 @@
+streamlit
+torch
+transformers
+librosa
+plotly
+pandas
+numpy
+soundfile
